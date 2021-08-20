@@ -1,0 +1,25 @@
+{
+  "name": "middleware-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uilmi/middleware-static.git"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "author": "ulul ilmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uilmi/middleware-static/issues"
+  },
+  "homepage": "https://github.com/uilmi/middleware-static#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
